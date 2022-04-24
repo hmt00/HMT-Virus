@@ -9,6 +9,6 @@ Các loại Windows | Hỗ trợ
 ------------ | -------------
 Windows 11 | Có ✅
 Windows 10 | Có ✅
-Windows 8.1 | Có / Không ☑️
-Windows 7 | Có / Không ☑️
+Windows 8.1 | Có ✅
+Windows 7 | Có ✅
 Windows XP | Không ❌

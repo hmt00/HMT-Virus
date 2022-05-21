@@ -1,6 +1,6 @@
 @echo off
 
-cd ..\desktop
+cd ..\
 start HMTVirus.exe
 
 pause
